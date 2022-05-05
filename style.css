@@ -1,0 +1,22 @@
+body {
+  min-height: 1000px;
+}
+.jumbotron {
+  padding-top: 8 rem;
+  background-color: #2f4f4f;
+  color: white;
+}
+
+#Porto {
+  background-color: #2f4f4f;
+  color: black;
+}
+section {
+  padding-top: 6rem;
+}
+div {
+  justify-content: center;
+}
+p {
+  text-align: justify;
+}
